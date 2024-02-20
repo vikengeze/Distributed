@@ -1,6 +1,0 @@
-Password VM1:	RGdXAvV4ci	snf-17541.ok-kno.grnetcloud.net
-Password VM2:	LBxNWAbJ0Y	snf-17540.ok-kno.grnetcloud.net
-Password VM3:	5POxjlVFmF	snf-17542.ok-kno.grnetcloud.net
-Password VM4: 	4oqmMub8Vr	snf-17543.ok-kno.grnetcloud.net
-Password VM5:	IK55SHVyNi	snf-17544.ok-kno.grnetcloud.net
-Public IP:	83.212.76.21
